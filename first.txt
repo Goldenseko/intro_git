@@ -10,3 +10,5 @@ This is a practice for Git. I still do not understand.
 git add と　git commitの勉強をした。
 
 git add と　git commitの勉強をしたあとにrmコマンドも体験した。
+
+git statusの勉強をした。
