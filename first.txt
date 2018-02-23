@@ -14,3 +14,5 @@ git add と　git commitの勉強をしたあとにrmコマンドも体験した
 git statusの勉強をした。
 
 git diffの勉強をした。
+
+
